@@ -5,7 +5,7 @@ class Majordome
   end
 
   def saluer
-    puts "Bonjour #{@nom} !"
+    puts "Bonjour #{@nom} !".red
   end
 end
 
