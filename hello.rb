@@ -1,3 +1,5 @@
+require 'colored'
+
 # La classe Majordome
 class Majordome
   def initialize(nom)
